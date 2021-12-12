@@ -6,7 +6,9 @@ The purpose of this project was to introduce us to different ways of using Excel
 ## Analysis and Challenges
 
 ### Analysis of Theater Outcomes Based on Launch Date
-For this analysis, I created a pivot table of data that counted the number of occurances of successful, failed, or canceled kickstarted campaigns for plays sorted by launch month. The following visualizes the data by showing launch month versus the number of occurances of play kickstarter campaigns that were successs, failed, or canceled.
+For this analysis, I created a pivot table of data that counted the number of occurances of successful, failed, or canceled theater kickstarter campaigns sorted by launch month. The following graph visualizes the data by showing launch month versus the number of occurances of theater kickstarter campaigns that were successs, failed, or canceled.
+
+
 
 
 ### Analysis of Outcomes Based on Goals
