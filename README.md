@@ -8,7 +8,8 @@ The purpose of this project was to introduce us to different ways of using Excel
 ### Analysis of Theater Outcomes Based on Launch Date
 For this analysis, I created a pivot table of data that counted the number of occurances of successful, failed, or canceled theater kickstarter campaigns sorted by launch month. The following graph visualizes the data by showing launch month versus the number of occurances of theater kickstarter campaigns that were successs, failed, or canceled.
 
-Theater_Outcomes_vs_Launch.png
+![alt text](https://github.com/nsmeltz/Module-1-Challenge-Kickstarter-Analysis/blob/521a039cdbd396ed769f3958b1623011e3e78f9e/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 For this analysis, I created a table of data that counted the number of occurances of successful, failed, or canceled kickstarted campaigns for plays using the COUNTIFS function in Excel. The following graph visualizes the data by showing goal amount range versus the percentage of play kickstarter campaigns that were successs, failed, or canceled. Goals were sorted into ranges starting at less than $1000 and ending at greater than $50,000. Each data point is associated with the appropriate goal range and plotted according to percentage. 
