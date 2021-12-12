@@ -1,10 +1,8 @@
 # Kickstarting with Excel
 Module 1 An Analysis of Kickstarter Campaigns Project
 
-## Overview of Project
-
-### Purpose
-
+## Overview of Project & Purpose
+The purpose of this project was to introduce us to different ways of using Excel for analysis of a kickstarter campaign for theatrical plays. The main task was to filter through a data set with thousands of kickstarter campaigns and find data that would be helpful to Louise who is running a campaign for her play *Fever*. Here my analysis shows trends about the outcomes of kickstarter campaigns in the plays subcategory based on launch date and whether or not the goal was achieved.   
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
