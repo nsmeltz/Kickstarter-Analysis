@@ -1,5 +1,5 @@
-# An Analysis of Kickstarter Campaigns
-Module 1 Kickstarter Analysis project
+# Kickstarting with Excel
+Module 1 An Analysis of Kickstarter Campaigns Project
 
 ## Overview of Project
 
